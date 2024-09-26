@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://drivingcat.co.uk</loc>
-	<lastmod>2024-09-25</lastmod>
+	<lastmod>2024-09-26</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -60,7 +60,7 @@
 </url>
 <url>
 	<loc>https://drivingcat.co.uk/terms.html</loc>
-	<lastmod>2024-09-25</lastmod>
+	<lastmod>2024-09-26</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -70,7 +70,7 @@
 </url>
 <url>
 	<loc>https://drivingcat.co.uk/privacy.html</loc>
-	<lastmod>2024-09-25</lastmod>
+	<lastmod>2024-09-26</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -80,7 +80,7 @@
 </url>
 <url>
 	<loc>https://drivingcat.co.uk/contact.html</loc>
-	<lastmod>2024-09-25</lastmod>
+	<lastmod>2024-09-26</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
