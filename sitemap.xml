@@ -1,90 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-	<loc>https://drivingcat.co.uk</loc>
-	<lastmod>2024-09-26</lastmod>
+	<loc>https://www.drivingcat.co.uk</loc>
+	<lastmod>2024-10-07</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
-	<image:loc>https://drivingcat.co.uk/img/image-1.jpg</image:loc>
+	<image:loc>https://www.drivingcat.co.uk/img/image-1.jpg</image:loc>
 	<image:title>placeholder image-sq</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://drivingcat.co.uk/img/image-1.webp</image:loc>
+	<image:loc>https://www.drivingcat.co.uk/img/image-1.webp</image:loc>
 	<image:title>placeholder image-sq</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://drivingcat.co.uk/img/image-2.jpg</image:loc>
+	<image:loc>https://www.drivingcat.co.uk/img/image-2.jpg</image:loc>
 	<image:title>placeholder image-sq</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://drivingcat.co.uk/img/image-2.webp</image:loc>
+	<image:loc>https://www.drivingcat.co.uk/img/image-2.webp</image:loc>
 	<image:title>placeholder image-sq</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://drivingcat.co.uk/img/image-4.jpg</image:loc>
+	<image:loc>https://www.drivingcat.co.uk/img/image-4.jpg</image:loc>
 	<image:title>placeholder image-sq</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://drivingcat.co.uk/img/image-4.webp</image:loc>
+	<image:loc>https://www.drivingcat.co.uk/img/image-4.webp</image:loc>
 	<image:title>placeholder image-sq</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://drivingcat.co.uk/img/image-3.jpg</image:loc>
+	<image:loc>https://www.drivingcat.co.uk/img/image-3.jpg</image:loc>
 	<image:title>placeholder image-sq</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://drivingcat.co.uk/img/image-3.webp</image:loc>
+	<image:loc>https://www.drivingcat.co.uk/img/image-3.webp</image:loc>
 	<image:title>placeholder image-sq</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://drivingcat.co.uk/img/image-5.jpg</image:loc>
+	<image:loc>https://www.drivingcat.co.uk/img/image-5.jpg</image:loc>
 	<image:title>placeholder image-sq</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://drivingcat.co.uk/img/image-5.webp</image:loc>
+	<image:loc>https://www.drivingcat.co.uk/img/image-5.webp</image:loc>
 	<image:title>placeholder image-sq</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://drivingcat.co.uk/img/image-6.jpg</image:loc>
+	<image:loc>https://www.drivingcat.co.uk/img/image-6.jpg</image:loc>
 	<image:title>placeholder image-sq</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://drivingcat.co.uk/img/image-6.webp</image:loc>
+	<image:loc>https://www.drivingcat.co.uk/img/image-6.webp</image:loc>
 	<image:title>placeholder image-sq</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://drivingcat.co.uk/img/</image:loc>
+	<image:loc>https://www.drivingcat.co.uk/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
 <url>
-	<loc>https://drivingcat.co.uk/terms.html</loc>
-	<lastmod>2024-09-26</lastmod>
+	<loc>https://www.drivingcat.co.uk/terms/</loc>
+	<lastmod>2024-10-07</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://drivingcat.co.uk/img/</image:loc>
+	<image:loc>https://www.drivingcat.co.uk/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
 <url>
-	<loc>https://drivingcat.co.uk/privacy.html</loc>
-	<lastmod>2024-09-26</lastmod>
+	<loc>https://www.drivingcat.co.uk/privacy/</loc>
+	<lastmod>2024-10-07</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://drivingcat.co.uk/img/</image:loc>
+	<image:loc>https://www.drivingcat.co.uk/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
 <url>
-	<loc>https://drivingcat.co.uk/contact.html</loc>
-	<lastmod>2024-09-26</lastmod>
+	<loc>https://www.drivingcat.co.uk/contact/</loc>
+	<lastmod>2024-10-07</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://drivingcat.co.uk/img/</image:loc>
+	<image:loc>https://www.drivingcat.co.uk/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
